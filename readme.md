@@ -2,6 +2,8 @@
 Based on shematics provided by [HDMy Cube](https://hdmycube.com/) this would not be possible without their help, so go buy their adapters for the Gamecube.
 
 
+This replaces the digital port on the Panasonic Q, and does not require any soldering on the console itself.
+
 
 ## Images
 
